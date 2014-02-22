@@ -40,9 +40,6 @@ TARGET_SCREEN_WIDTH := 480
 PRODUCT_PROPERTY_OVERRIDES += ro.sf.lcd_density=240
 endif
 
-#TWRP
-DEVICE_RESOLUTION := 720x1280
-
 # Audio configuration
 PRODUCT_COPY_FILES += \
         device/samsung/d2lte/audio/snd_soc_msm_2x:system/etc/snd_soc_msm/snd_soc_msm_2x \
