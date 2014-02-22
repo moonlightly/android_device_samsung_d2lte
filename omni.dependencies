@@ -1,24 +1,18 @@
 [
-  {
-   "remote": "nameless",
-   "repository": "android_device_qcom_common",
-   "target_path": "device/qcom/common",
-   "revision": "android-4.4"
-  },
  {
    "remote": "github",
    "repository": "nickdoherty81/android_device_samsung_d2lte",
    "target_path": "device/samsung/d2lte",
-   "revision": "android-4.4"
+   "revision": "omni"
  },
  {
-   "remote": "nameless",
+   "remote": "omni",
    "repository": "android_device_samsung_qcom-common",
    "target_path": "device/samsung/qcom-common",
    "revision": "android-4.4"
  },
  {
-   "remote": "nameless",
+   "remote": "omni",
    "repository": "android_device_samsung_msm8960-common",
    "target_path": "device/samsung/msm8960-common",
    "revision": "android-4.4"
@@ -36,7 +30,7 @@
    "revision": "cm-11.0"
  },
  {
-   "remote": "nameless",
+   "remote": "omni",
    "repository": "android_hardware_samsung",
    "target_path": "hardware/samsung",
    "revision": "android-4.4"
