@@ -1,11 +1,5 @@
 [
  {
-   "remote": "github",
-   "repository": "nickdoherty81/android_device_samsung_d2lte",
-   "target_path": "device/samsung/d2lte",
-   "revision": "omni"
- },
- {
    "remote": "omnirom",
    "repository": "android_device_samsung_qcom-common",
    "target_path": "device/samsung/qcom-common",
@@ -25,9 +19,9 @@
  },
  {
    "remote": "github",
-   "repository": "TheMuppets/proprietary_vendor_samsung",
+   "repository": "CrazyWeasel/proprietary_vendor_samsung",
    "target_path": "vendor/samsung",
-   "revision": "cm-11.0"
+   "revision": "android-4.4"
  },
  {
    "remote": "omnirom",
